@@ -1,4 +1,4 @@
-# 2mc
+# 2min.pink
 2 minute challenge to raise smartphone overuse awareness
 
 ## About
