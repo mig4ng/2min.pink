@@ -18,3 +18,31 @@ If this project changes one, and one only, life I will be fulfilled. Even if it 
 ## Objectives
 - Reach as many people as possible (going viral) and change the life of at least one;
 - Self-sustaining project, monetize it somehow and use the money to reach more people;
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Run your tests
+```
+yarn run test
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
