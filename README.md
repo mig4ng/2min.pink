@@ -12,6 +12,7 @@ If this project changes one, and one only, life I will be fulfilled. Even if it 
 
 - No back-end, in order to be cheap to maintain and scale;
 - Multilanguage, to reach non-english speakers as well;
+- Easy to develop and maintain yet lightweight for the end user; 
 - Ads and other distractions free.
 
 ## Objectives
