@@ -65,7 +65,7 @@ export default {
   name: 'home',
   data() {
     return {
-      time: 5,
+      time: 120,
       interval: null,
       screen: 'start',
       isLoser: false,
