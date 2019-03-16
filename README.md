@@ -16,8 +16,11 @@ If this project changes one, and one only, life I will be fulfilled. Even if it 
 - Ads and other distractions free.
 
 ## Objectives
-- Reach as many people as possible (going viral) and change the life of at least one;
+- Reach as many people as possible and change the life of at least a person;
 - Self-sustaining project, monetize it somehow and use the money to reach more people;
+
+## Why pink?
+Because it is my favorite color and it was cheap.
 
 ## Project setup
 ```
