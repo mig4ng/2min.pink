@@ -2,7 +2,7 @@
   <div id="challenge" class="text-white mt-6 font-bold">
     <div v-if="screen === 'start'">
       <p>Most people fail this test.</p>
-      <p>And so will too!</p>
+      <p>And so will you!</p>
       <p class="mt-4">Here are the rules:</p>
       <ul>
         <li>You must stay in this window.</li>
