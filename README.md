@@ -21,7 +21,7 @@ If this project changes one, and one only, life I will be fulfilled. Even if it 
 - Experiment with Tailwind CSS.
 
 ## Why pink?
-Because it is my favorite color and it was cheap.
+Because it is my favorite color and the domain was cheap.
 
 ## Project setup
 ```
