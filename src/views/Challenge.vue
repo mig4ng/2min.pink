@@ -2,7 +2,7 @@
   <div id="challenge" class="text-white mt-6 font-bold">
     <div v-if="screen === 'start'">
       <p>Most people fail this test.</p>
-      <p>And you will too!</p>
+      <p>And so will too!</p>
       <p class="mt-4">Here are the rules:</p>
       <ul>
         <li>You must stay in this window.</li>
@@ -17,6 +17,7 @@
     </div>
     <div v-else-if="screen === 'running'">
       <p>Remaining Seconds: {{ time }}</p>
+      <p class="mt-4">Originaly it was going to be 10 minutes, but everyone would fail.</p>
       <button class="mt-4 underline text-white text-2xl font-bold"
               @click="endTimer">
               Give up...
@@ -33,7 +34,7 @@
         <li>Driving with their eyes glued to their phones,
           risking injuring themselves or worst killing someone.</li>
         <li>Ignoring their loves ones while looking at photos of people they barely know.</li>
-        <li>Wasting HOURS every single day consuming worthless content.</li>
+        <li>Wasting not 2 minutes but HOURS every single day consuming worthless content.</li>
         <li>This list could go on...</li>
       </ul>
       <p class="mt-4">
