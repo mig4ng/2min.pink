@@ -18,6 +18,7 @@ If this project changes one, and one only, life I will be fulfilled. Even if it 
 ## Objectives
 - Reach as many people as possible and change the life of at least a person;
 - Self-sustaining project, monetize it somehow and use the money to reach more people;
+- Experiment with Tailwind CSS.
 
 ## Why pink?
 Because it is my favorite color and it was cheap.
